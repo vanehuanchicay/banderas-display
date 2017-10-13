@@ -1,0 +1,19 @@
+.yellow{
+  background-color: #F5B245;
+  display: inline-block;
+
+}
+
+.grey{
+  background-color: #35322E;
+  display: inline-block;
+  margin: 20px;
+}
+h4,h5{
+  padding: .3em;
+  margin: 0;
+}
+
+h5{
+  color:white;
+}
